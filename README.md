@@ -4,11 +4,6 @@
 
 This project demonstrates a quantum-inspired approach to solving a maze using quantum walks implemented with Qiskit. The maze is generated using a recursive backtracking algorithm, and the quantum walk simulates the traversal through the maze, with the path frequencies visualized using a heatmap.
 
-### Project Structure
-
-- **maze_solver.py**: Contains the implementation of the maze generation and quantum walk solver.
-- **README.md**: This readme file.
-
 ### Dependencies
 
 The project requires the following Python libraries:
