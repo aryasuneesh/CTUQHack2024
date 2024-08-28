@@ -38,4 +38,4 @@ python maze_solver.py
 The `Maze` class generates a maze using a recursive backtracking algorithm. The maze is represented as a 2D grid where walls are represented by `1` and paths by `0`. The entry point is at `(1, 0)` and the exit point is at `(height-2, width-1)`.
 
 ### Quantum Walk Solver
-The `QuantumWalk2D` class performs the quantum walk using Qiskit. The walk is simulated using quantum circuits to determine the direction of movement.
+The `QuantumWalk2D` class performs the quantum walk using Qiskit. The walk is simulated using quantum circuits to determine the direction of movement. 
